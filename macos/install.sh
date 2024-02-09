@@ -12,7 +12,6 @@ packages=(
   stow
   supabase
   tmux
-  transmission-cli
   z
 )
 
@@ -52,7 +51,6 @@ apps=(
   slack
   spotify
   streamlabs-obs
-  # transmission
   visual-studio-code
   vlc
   zoom
