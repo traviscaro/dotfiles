@@ -1,4 +1,4 @@
-dotfiles=~/.dotfiles
-projects=~/Projects
-dev=$projects/Dev
-docs=$projects/Docs
+export dotfiles=~/.dotfiles
+export projects=~/Projects
+export dev=$projects/Dev
+export docs=$projects/Docs

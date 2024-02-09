@@ -12,5 +12,8 @@ stow alacritty
 stow tmux 
 stow bash
 
+# Refresh the shell env
+source ~/.zshrc
+
 # Go back to where we came from
 cd $start

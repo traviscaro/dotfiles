@@ -80,3 +80,7 @@ for app in "${apps[@]}"; do
 done
 
 # TODO: Setup node env with nvm
+
+# Setup tmux plugin manager
+source ../tmux/.scripts/install-tpm.sh
+source ../neovim/.scripts/install-packer.sh
