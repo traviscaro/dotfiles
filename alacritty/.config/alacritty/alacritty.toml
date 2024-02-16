@@ -3,3 +3,4 @@ import = [
 ]
 
 font.normal = { family = "MesloLGS NF", style = "Regular" } 
+font.size = 12
